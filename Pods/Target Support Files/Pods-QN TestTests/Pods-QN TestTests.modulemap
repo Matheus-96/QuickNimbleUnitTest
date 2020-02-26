@@ -1,0 +1,6 @@
+framework module Pods_QN_TestTests {
+  umbrella header "Pods-QN TestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
